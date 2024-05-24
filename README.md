@@ -28,6 +28,7 @@ f"model_outputs/labels.{model}.{task}.txt"
 f"model_outputs/score.{model}.{task}.txt"
 ```
 
+The outputs of our experiments can already be found there. 
 Note: there are a couple of values that were erroneously copied over to the table in the paper, (e.g. Llama2-7B on spelling should get 0.955 not 0.934). These will be fixed in the camera-ready.
 
 

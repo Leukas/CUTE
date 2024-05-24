@@ -1,0 +1,1000 @@
+Yes
+Yes
+Yes
+No, there is no 'x' in 'that'.
+No, there is no 'f' in 'this'.
+Yes
+No, there is no 'q' in 'you'.
+Yes
+No, there is no 'z' in 'are'.
+Yes
+Yes
+No, there is no 'x' in 'all'.
+Yes
+Yes
+Yes
+No, there is no 'v' in 'was'.
+No, there is no 'y' in 'will'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'u' in 'but'.
+Yes
+No, there is no 'r' in 'one'.
+Yes
+Yes
+No, there is no 'f' in 'time'.
+Yes
+No, there is no 'f' in'site'.
+Yes
+No, there is no 'x' in the word 'what'.
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'v' in 'any'.
+Yes
+Yes
+Yes
+No, there is no 'b' in 'his'.
+No, there is no 'z' in 'when'.
+Yes
+No, there is no'm' in 'here'.
+Yes
+No, there is no 'c' in 'who'.
+No, there is no 'y' in 'web'.
+Yes
+Yes
+No, there is no 'q' in 'help'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'w' in 'were'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'v' in'state'.
+Yes
+Yes
+Yes
+No, there is no 'z' in 'email'.
+No, there is no 'd' in 'two'.
+Yes
+Yes
+Yes
+Yes
+No, there is no 'x' in 'work'.
+Yes
+Yes
+Yes
+Yes
+No, there is no 'q' in 'buy'.
+Yes
+No, there is no 'c' in'make'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'q' in the word 'number'.
+Yes
+Yes
+Yes, there is a 'r' in 'available'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'v' in 'then'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'x' in 'through'.
+Yes
+Yes
+Yes
+No, there is no 'z' in'review'.
+Yes
+Yes
+Yes
+No, there is no 'w' in 'privacy'.
+Yes
+Yes
+No, there is no 'q' in 'company'.
+Yes
+Yes
+Yes
+Yes
+No, there is no 'f' in'many'.
+No, there is no 'w' in 'user'.
+Yes
+Yes
+No, there is no 'o' in'set'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'v' in 'know'.
+Yes
+No, there is no 'v' in 'way'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes, there is an 'a' in'real'.
+Yes
+Yes
+No, there is no 'w' in 'center'.
+Yes
+No, there is no 'x' in'must'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'x' in 'line'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'z' in 'those'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no's' in 'take'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no'm' in 'phone'.
+Yes
+Yes
+No, there is no 'j' in'reserved'.
+Yes
+No, there is no 'z' in 'between'.
+Yes
+Yes
+Yes
+No, there is no 'z' in 'based'.
+Yes
+Yes
+No, there is no 'p' in 'even'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'v' in 'being'.
+Yes
+Yes
+No, there is no 'x' in'sign'.
+Yes
+Yes
+Yes
+No, there is no 'q' in 'today'.
+Yes
+Yes
+Yes
+Yes
+No, there is no 'y' in'same'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'w' in 'photo'.
+No, there is no 'a' in 'game'.
+Yes
+No, there is no 'f' in 'power'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'w' in 'place'.
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'q' in 'per'.
+Yes
+No, there is no 'y' in 'think'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'w' in 'law'.
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'v' in 'art'.
+Yes
+No, there is no 'q' in'since'.
+Yes
+Yes
+Yes
+Yes
+No, there is no 'z' in 'board'.
+Yes
+Yes
+No, there is no 'v' in 'white'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'w' in 'account'.
+Yes
+No, there is no 'g' in'sites'.
+Yes
+No, there is no 'y' in 'digital'.
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'q' in 'old'.
+Yes
+Yes
+Yes
+Yes
+No, there is no 'g' in 'image'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'd' in 'why'.
+No, there is no 'g' in'shall'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'f' in 'country'.
+Yes
+Yes
+No, there is no 'f' in 'visit'.
+No, there is no 'y' in'save'.
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'f' in 'compare'.
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'q' in 'york'.
+Yes
+Yes
+Yes
+Yes
+No, there is no 'v' in 'food'.
+Yes
+Yes
+No, there is no 'y' in 'different'.
+Yes
+No, there is no 'z' in 'learn'.
+No, there is no 'w' in'sale'.
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'z' in 'process'.
+Yes
+No, there is no 'g' in 'room'.
+Yes
+Yes
+No, there is no 'u' in 'too'.
+Yes
+No, there is no 'u' in 'point'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'q' in 'look'.
+Yes
+No, there is no 'f' in 'left'.
+Yes
+Yes
+Yes
+Yes, there is a 'y' in 'conditions'.
+Yes
+Yes
+Yes
+No, there is no'm' in 'gay'.
+Yes
+Yes
+Yes
+No, there is no 'j' in 'note'.
+Yes
+Yes
+No, there is no 'w' in 'gallery'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'f' in'really'.
+Yes
+No, there is no 'w' in'start'.
+Yes
+Yes
+Yes
+No, there is no 'j' in 'air'.
+Yes
+No, there is no 'k' in 'plan'.
+No, there is no 'p' in 'human'.
+Yes
+Yes
+Yes
+Yes
+No, there is no 'v' in the word 'hot'.
+Yes
+No, there is no 'v' in 'cost'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'x' in'server'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'k' in 'april'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes, there is an 'a' in 'against'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'y' in 'blog'.
+Yes
+No, there is no 'v' in 'payment'.
+No, there is no 'f' in 'equipment'.
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'q' in 'legal'.
+Yes
+Yes
+Yes
+No, there is no 'j' in'stores'.
+No, there is no 'v' in'side'.
+Yes
+No, there is no 'x' in 'problem'.
+No, there is no 'w' in'red'.
+Yes
+No, there is no 'y' in'memory'.
+No, there is no 'w' in 'performance'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'x' in 'body'.
+No, there is no 'w' in 'young'.
+No, there is no 'z' in 'america'.
+Yes
+Yes
+No, there is no 'q' in 'few'.
+No, there is no 'a' in 'east'.
+Yes
+No, there is no 'x' in'single'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'y' in 'road'.
+Yes
+Yes
+Yes
+No, there is no 'q' in 'night'.
+Yes
+No, there is no 'z' in 'texas'.
+No, there is no 'w' in 'oct'.
+Yes
+No, there is no'm' in 'four'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'z' in 'february'.
+Yes
+No, there is no 'f' in'result'.
+Yes
+No, there is no 'p' in 'light'.
+No, there is no 'j' in 'write'.
+No, there is no 'a' in 'war'.
+No, there is no 'v' in 'nov'.
+Yes
+Yes
+Yes
+No, there is no 'v' in 'easy'.
+Yes
+No, there is no 'q' in 'files'.
+Yes
+Yes
+Yes
+Yes
+No, there is no 'b' in 'fax'.
+No, there is no 'f' in 'china'.
+Yes
+No, there is no 'q' in 'picture'.
+Yes
+Yes
+Yes
+Yes
+No, there is no 'x' in 'yet'.
+Yes
+No, there is no 'w' in'major'.
+No, there is no 'p' in'star'.
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'x' in'sun'.
+Yes
+Yes
+Yes
+Yes
+No, there is no 'v' in'meeting'.
+Yes
+Yes
+Yes
+Yes
+No, there is no 'g' in 'keep'.
+No, there is no'm' in 'enter'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'w' in 'added'.
+Yes
+No, there is no 'z' in 'companies'.
+No, there is no 'j' in 'listed'.
+No, there is no 'f' in 'baby'.
+Yes
+No, there is no 'x' in 'energy'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'y' in 'journal'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'c' in 'head'.
+Yes
+Yes
+No, there is no 'u' in 'cell'.
+No, there is no 'f' in 'color'.
+Yes
+Yes
+Yes
+Yes
+No, there is no 'z' in 'track'.
+No, there is no 'x' in 'australia'.
+Yes
+Yes
+Yes
+Yes
+Yes, there is a 'a' in 'entertainment'.
+No, there is no 'z' in 'agreement'.
+No, there is no 'v' in 'format'.
+Yes
+Yes
+Yes
+Yes
+No, there is no 'w' in'safety'.
+Yes
+Yes
+No, there is no 'z' in 'faq'.
+Yes
+Yes
+Yes
+Yes
+No, there is no 'w' in'marketing'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes, there is a 'b' in 'provides'.
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'x' in 'close'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+No, there is no 'z' in'short'.
+Yes
+No, there is no 'j' in 'lot'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'y' in 'director'.
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'w' in 'due'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'w' in'region'.
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'q' in 'environment'.
+Yes
+No, there is no 'z' in 'district'.
+Yes
+Yes
+Yes
+No, there is no 'f' in 'url'.
+Yes
+Yes
+Yes, there is a'm' in 'update'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'w' in'sound'.
+Yes
+Yes
+Yes
+Yes
+No, there is no 'v' in 'ago'.
+No, there is no 'x' in 'document'.
+Yes
+Yes
+Yes
+No, there is no 'v' in 'bill'.
+Yes
+No, there is no 'x' in 'written'.
+Yes
+No, there is no 'y' in 'federal'.
+Yes
+Yes
+Yes
+No, there is no 'j' in 'adult'.
+Yes
+Yes
+No, there is no 'q' in 'centre'.
+Yes
+Yes
+Yes
+No, there is no 'f' in 'nude'.
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'c' in'mark'.
+Yes
+Yes
+No, there is no 'q' in 'gifts'.
+Yes
+Yes
+Yes
+No, there is no 'j' in 'bad'.
+Yes
+No, there is no 'z' in 'tips'.
+No, there is no 'x' in 'plus'.
+No, there is no 'y' in 'auto'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'y' in 'fact'.
+Yes
+Yes
+Yes, there is a 'a' in 'global'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'z' in 'bank'.
+No, there is no 'z' in 'risk'.
+Yes
+Yes
+No, there is no 'q' in 'deals'.
+Yes
+Yes
+Yes
+No, there is no 'f' in 'jul'.
+Yes
+Yes
+Yes
+No, there is no 'k' in 'weight'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'z' in'makes'.
+Yes
+Yes
+No, there is no 'j' in 'loan'.
+No, there is no 'x' in 'wide'.
+Yes
+No, there is no 'f' in'manager'.
+Yes
+Yes
+Yes
+No, there is no 'z' in'sort'.
+Yes
+No, there is no 'q' in'models'.
+Yes
+Yes
+Yes
+No, there is no 'x' in 'cases'.
+Yes
+Yes
+Yes
+No, there is no 'z' in'simple'.
+Yes
+Yes
+Yes
+Yes
+No, there is no 'q' in 'paul'.
+Yes
+No, there is no 'w' in 'lake'.
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'g' in'sony'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'w' in'response'.
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'w' in 'holiday'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'z' in'speed'.
+Yes
+No, there is no 'v' in 'countries'.
+No, there is no 'j' in 'loss'.
+Yes
+Yes
+Yes
+No, there is no 'z' in 'higher'.
+No, there is no 'w' in 'effects'.
+No, there is no 'w' in 'created'.
+No, there is no 'x' in'remember'.
+Yes
+Yes
+No, there is no 'v' in 'bit'.
+Yes
+No, there is no 'q' in 'political'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'x' in'storage'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'z' in 'africa'.
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'f' in 'agency'.
+No, there is no 'z' in 'king'.
+No, there is no 'y' in'monday'.
+Yes
+Yes
+No, there is no 'v' in 'copy'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'z' in 'employment'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'w' in 'players'.
+Yes
+Yes
+Yes
+Yes, there is an 'i' in'regional'.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No, there is no 'c' in 'dog'.
+No, there is no 'y' in 'build'.
+No, there is no 'x' in'screen'.
+No, there is no 'q' in 'exchange'.
+No, there is no 'y' in 'types'.
+No, there is no 'a' in'soon'.
+Yes
+Yes
+Yes
+Yes
+No, there is no 'p' in 'across'.
+Yes
+Yes
+Yes
+Yes
+No, there is no 'f' in'someone'.
+Yes
+No, there is no 'w' in 'anything'.
+No, there is no 'q' in 'printer'.
+Yes
+Yes
+Yes
