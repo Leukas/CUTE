@@ -258,5 +258,9 @@ if __name__ == "__main__":
         for task in OTHER_TASKS:
             args.task = task
             main(args)
+    elif args.task == 'rand':
+        for task in RAND_TASKS:
+            args.task = task
+            main(args)
     else:
         main(args)

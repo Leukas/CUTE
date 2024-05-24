@@ -19,6 +19,7 @@ install_requires = [
     "transformers==4.40.0",
     "faiss-cpu==1.8.0",
     "bitsandbytes==0.43.1",
+    "psutil==5.9.8",
 ]
 dependency_links = []
 
