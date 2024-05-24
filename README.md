@@ -31,8 +31,10 @@ f"model_outputs/score.{model}.{task}.txt"
 Note: there are a couple of values that were erroneously copied over to the table in the paper, (e.g. Llama2-7B on spelling should get 0.955 not 0.934). These will be fixed in the camera-ready.
 
 
+##### Generating Data
+
 If you want to re-generate the data using the scripts in ./data_gen/, you will also need to download the fastText word embeddings and put them in the data_gen folder:
 https://dl.fbaipublicfiles.com/fasttext/vectors-english/wiki-news-300d-1M.vec.zip
 
-To regenerate the data, use gen_sem_orth.py for generating semantic and orthographic pairs, gen_char_tasks.py for all tasks on the character level (including spelling), and gen_word_tasks.py for all tasks on the word level. 
-Note: There was a bug in earlier versions of the gen files that meant the seed was not reproducible. As such, running them now will not give you the same files as are provided in ./data. 
+To regenerate the data, use `gen_sem_orth.py` for generating semantic and orthographic pairs, `gen_char_tasks.py` for all tasks on the character level (including spelling), and `gen_word_tasks.py` for all tasks on the word level. 
+Note: There was a bug in earlier versions of the gen files that meant the seed was not reproducible. As such, running them now will not give you the same files as are provided in `./data`. 
