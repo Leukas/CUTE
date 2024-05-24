@@ -1,7 +1,7 @@
 <!-- README.md -->
 ### CUTE: Character-Level Understanding of Tokens Evaluation
 
-To install dependencies, cd into the anon_cute folder and run:
+To install dependencies, cd into the repo folder and run:
 ```bash
 pip install -e .
 ```
