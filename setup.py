@@ -20,6 +20,7 @@ install_requires = [
     "faiss-cpu==1.8.0",
     "bitsandbytes==0.43.1",
     "psutil==5.9.8",
+    "tiktoken==0.6.0",
 ]
 dependency_links = []
 
