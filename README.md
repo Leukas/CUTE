@@ -18,7 +18,7 @@ This will evaluate Llama-7B on our Contains Character task. All flags are explai
 --model_path    Model path. Necessary if you use an unsupported model or your model is in a custom location.
 --big_model     Supports loading a model across multiple gpus. Likely necessary for command-r-plus and dbrx.
 --batch_size    Batch size.
---task          Benchmark task. Possible values: {spell, spell_inverse, contains_char, contains_word, orth, sem, ins_char, ins_word, del_char, del_word, swap_char, swap_word, sub_char, sub_word}. Can also use ``all'' to run all tasks.
+--task          Benchmark task. Possible values: {spell, spell_inverse, contains_char, contains_word, orth, sem, ins_char, ins_word, del_char, del_word, swap_char, swap_word, sub_char, sub_word}. Can also use "all" to run all tasks, or use commas e.g. "spell,spell_inverse" to run multiple tasks.
 ```
 
 The outputs, labels, and scores will be stored in:
