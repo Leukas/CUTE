@@ -1,5 +1,14 @@
 <!-- README.md -->
+# CUTE 🎀
+
 ### CUTE: Character-Level Understanding of Tokens Evaluation
+
+This repo contains our benchmark, CUTE, as detailed in _CUTE: Measuring LLMs’ Understanding of Their Tokens_ (link to be added soon).
+We evaluate LLM's understanding of orthography, finding that most seem to understand spelling pretty well, but aren't as good at manipulating sequences on the character level.
+
+We will present CUTE at EMNLP 2024!
+
+### Installation
 
 To install dependencies, cd into the repo folder and run:
 ```bash
@@ -28,11 +37,10 @@ f"model_outputs/labels.{model}.{task}.txt"
 f"model_outputs/score.{model}.{task}.txt"
 ```
 
-The outputs of our experiments can already be found there. 
-Note: there are a couple of values that were erroneously copied over to the table in the paper, (e.g. Llama2-7B on spelling should get 0.955 not 0.934). These will be fixed in the camera-ready.
+The outputs of our experiments can already be found there.
 
 
-##### Generating Data
+### Generating Data
 
 If you want to re-generate the data using the scripts in ./data_gen/, you will also need to download the fastText word embeddings and put them in the data_gen folder:
 https://dl.fbaipublicfiles.com/fasttext/vectors-english/wiki-news-300d-1M.vec.zip
