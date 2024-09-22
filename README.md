@@ -8,6 +8,15 @@ We evaluate LLM's understanding of orthography, finding that most seem to unders
 
 We will present CUTE at EMNLP 2024!
 
+### Leaderboard
+
+[Here's the Leaderboard](https://huggingface.co/spaces/leukas/cute_leaderboard)
+
+It includes all of the models in the paper, plus a few new ones (e.g. Llama3.1 405B, Phi3)
+
+I will likely add more models in the future as they come out. Let me know if you would like me to add any specific models.
+
+
 ### Installation
 
 To install dependencies, cd into the repo folder and run:
