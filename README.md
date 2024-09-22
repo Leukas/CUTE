@@ -1,28 +1,36 @@
 <!-- README.md -->
 # CUTE 🎀
 
-### CUTE: Character-Level Understanding of Tokens Evaluation
+## CUTE: Character-Level Understanding of Tokens Evaluation
 
 This repo contains our benchmark, CUTE, as detailed in _CUTE: Measuring LLMs’ Understanding of Their Tokens_ (link to be added soon).
 We evaluate LLM's understanding of orthography, finding that most seem to understand spelling pretty well, but aren't as good at manipulating sequences on the character level.
 
 We will present CUTE at EMNLP 2024!
 
-### Leaderboard
+## Leaderboard
 
-[Here's the Leaderboard](https://huggingface.co/spaces/leukas/cute_leaderboard)
+We made a HuggingFace leaderboard:
+https://hf.co/spaces/leukas/cute_leaderboard
 
 It includes all of the models in the paper, plus a few new ones (e.g. Llama3.1 405B, Phi3)
 
-I will likely add more models in the future as they come out. Let me know if you would like me to add any specific models.
+We will likely add more models in the future as they come out. Let us know if you would like us to add any specific models.
+
+## HuggingFace Dataset
+
+If you prefer to do things your own way, we put the evaluation set on HuggingFace as well:
+https://hf.co/datasets/leukas/cute
 
 
-### Installation
+## Installation
 
 To install dependencies, cd into the repo folder and run:
 ```bash
 pip install -e .
 ```
+
+## Running
 
 To evaluate, run for example:
 ```bash
@@ -49,7 +57,7 @@ f"model_outputs/score.{model}.{task}.txt"
 The outputs of our experiments can already be found there.
 
 
-### Generating Data
+## Generating Data
 
 If you want to re-generate the data using the scripts in ./data_gen/, you will also need to download the fastText word embeddings and put them in the data_gen folder:
 https://dl.fbaipublicfiles.com/fasttext/vectors-english/wiki-news-300d-1M.vec.zip
