@@ -88,21 +88,25 @@ MODELS = {
     'gemma-7b': "google/gemma-7b-it"
 }
 
-def padding_collate_fn(batch, max_len=1024):
+def padding_collate_fn(batch, tokenizer, max_len=1024):
     """ 
-        Pads each list with zeros and concatenates by key.
+        Pads each list with the tokenizer pad token id and concatenates by key.
         Input: List[{key: List[], ...}]
         Output: {key: LongTensor(), ...}
     """
+    pad_token_id = tokenizer.pad_token_id
+    if pad_token_id is None:
+        raise ValueError("Tokenizer pad_token_id is not set.")
+
     padded_batch = {}
     for key in batch[0]:
         if key in ["input1", "input2", "input3", "label"]:
             padded_batch[key] = []
             continue
         largest = min(max_len, max([len(b[key]) for b in batch]))
-        padded_batch[key] = torch.zeros((len(batch), largest), dtype=torch.long)
-        if "labels" in key:
-            padded_batch[key] -= 100
+
+        pad_id = pad_token_id if "labels" not in key else -100
+        padded_batch[key] = torch.full((len(batch), largest), pad_id, dtype=torch.long)
     
     for i, sample in enumerate(batch):
         for key in padded_batch:
@@ -194,7 +198,7 @@ def main(args):
     dl = DataLoader(
         dataset,
         batch_size=args.batch_size,
-        collate_fn=padding_collate_fn,
+        collate_fn=partial(padding_collate_fn, tokenizer=tokenizer),
     )
 
     with torch.no_grad():
